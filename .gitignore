@@ -1,0 +1,16 @@
+data/input_data/
+data/output_data/
+weights/
+*.pt
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+__pycache__/
+.venv/
+augmented_dataset/
+manual_crops/
+benchmark_results/
+*.zip
